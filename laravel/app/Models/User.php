@@ -23,6 +23,10 @@ class User extends Authenticatable
         'password',
     ];
 
+    public function workouts()
+    {
+        return $this->hasMany(Workout::class);
+    }
     /**
      * The attributes that should be hidden for serialization.
      *
