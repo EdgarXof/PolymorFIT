@@ -1,0 +1,43 @@
+{
+  "hash": "39944cf7",
+  "configHash": "0586acd8",
+  "lockfileHash": "f30cf193",
+  "browserHash": "30b71905",
+  "optimized": {
+    "vue": {
+      "src": "../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "de7ebde7",
+      "needsInterop": false
+    },
+    "@inertiajs/vue3": {
+      "src": "../../node_modules/@inertiajs/vue3/dist/index.esm.js",
+      "file": "@inertiajs_vue3.js",
+      "fileHash": "5c8bb6c9",
+      "needsInterop": false
+    },
+    "laravel-vite-plugin/inertia-helpers": {
+      "src": "../../node_modules/laravel-vite-plugin/inertia-helpers/index.js",
+      "file": "laravel-vite-plugin_inertia-helpers.js",
+      "fileHash": "a336e1bc",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "521101ce",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-EWG5TRLO": {
+      "file": "chunk-EWG5TRLO.js"
+    },
+    "chunk-CME47YJT": {
+      "file": "chunk-CME47YJT.js"
+    },
+    "chunk-ZS7NZCD4": {
+      "file": "chunk-ZS7NZCD4.js"
+    }
+  }
+}
